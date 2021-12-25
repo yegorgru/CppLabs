@@ -1,0 +1,183 @@
+Choosing of ideal threshold for combined_quick_insertion_sort, length of array = 100000:
+Threshold	Time
+5		10
+10		9
+15		9
+20		7
+25		7
+30		7
+35		8
+40		7
+45		7
+50		7
+55		8
+60		7
+65		7
+70		7
+16		8
+17		8
+18		8
+19		7
+20		8
+21		13
+22		8
+23		7
+Ideal threshold for combined_quick_insertion_sort: 19
+
+Choosing of ideal threshold for combined_merge_insertion_sort, length of array = 100000:
+Threshold	Time
+5		11
+10		11
+15		10
+20		11
+25		10
+30		9
+35		9
+40		9
+45		9
+50		9
+55		10
+60		10
+65		9
+70		9
+26		10
+27		10
+28		10
+29		10
+30		10
+31		10
+32		9
+33		9
+Ideal threshold for combined_merge_insertion_sort: 32
+
+Random array
+Insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		23
+100000		2895
+200000		11957
+Quicksort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		12
+1000000		132
+Mergesort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		11
+1000000		141
+Library sort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		13
+1000000		145
+Combined quick and insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		0
+100000		7
+1000000		96
+Combined merge and insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		10
+1000000		119
+
+An almost sorted array
+Insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		0
+100000		30
+1000000		1804
+Quicksort
+Count		Time (ms)
+100		0
+1000		1
+10000		1
+100000		11
+1000000		132
+Mergesort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		12
+1000000		140
+Library sort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		13
+1000000		144
+Combined quick and insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		7
+1000000		94
+Combined merge and insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		10
+1000000		118
+
+An array, almost sorted in the opposite direction
+Insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		24
+100000		2928
+200000		12658
+Quicksort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		11
+1000000		133
+Mergesort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		12
+1000000		140
+Library sort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		13
+1000000		145
+Combined quick and insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		7
+1000000		90
+Combined merge and insertion sort
+Count		Time (ms)
+100		0
+1000		0
+10000		1
+100000		10
+1000000		118

@@ -1,0 +1,32 @@
+Linked list.
+Count	sizeof	push random (count/100)	pop back (count/100)	pop front (count/100)	push 1(count/100 times)	push number (count/100, 1 time)	erase (count/100)	erase pos (count/100)	erase pos1 pos2	is value (count/100)	value search (count/100)	range search values	range search nodes	action
+1000	32000			0	0			0			0				0			0			0			0			0			0			0			0			0
+10000	320000			0	0			0			4				0			8			2			1			0			2			0			0			0
+100000	3200000			1	0			0			210				1			402			172			0			0			190			0			0			0
+1000000	32000000		17	0			0			40703				3			96269			41415			478			3			49264			7			8			10
+Array list.
+Count	sizeof	push random (count/100)	quick push (count/100 times)	quick push (1 time, count/100)	pop back (count/100)	pop front (count/100)	push 1(count/100 times)	push number (count/100, 1 time)	erase (count/100)	erase pos (count/100)	erase pos1 pos2	is value (count/100)	value search (count/100)	range search values	range search nodes	action
+1000	24000			0	0				0				0			0			0				0			0			0			0			0			0			0			0			0
+10000	240000			0	1				0				0			0			1				0			2			1			0			0			1			0			0			0
+100000	2400000			1	55				0				0			91			84				0			211			59			0			0			100			1			0			0
+1000000	24000000		8	9744				1				0			18284			11786				2			34507			10353			0			3			14617			1			1			2
+Binary tree.
+Count	sizeof	push random (count/100)	push 1(count/100 times)	erase (count/100)	is value (count/100)	value search (count/100)	range search values	action
+1000	32000			0	0				0			0			0			0			0
+10000	320000			0	0				0			0			9			0			0
+100000	3200000			1	0				1			0			1161			0			1
+200000	6400000			2	1				2			1			7439			0			7
+400000	12800000		3	3				4			2			48100			0			18
+AVL tree.
+Count	sizeof	push random (count/100)	push 1(count/100 times)	erase (count/100)	is value (count/100)	value search (count/100)	range search values	action
+1000	32000			0	0				0			0			0			0			0
+10000	320000			0	0				0			1			6			0			0
+100000	3200000			1	0				1			0			1062			0			2
+200000	6400000			1	2				2			1			8383			0			5
+400000	12800000		4	4				4			1			49560			0			17
+2-3 tree.
+Count	sizeof	push random (count/100)	push 1(count/100 times)	erase (count/100)	is value (count/100)	range search values	action
+1000	32000			0	0				0			0			0			0
+10000	320000			0	0				0			0			0			0
+100000	3200000			1	1				1			0			0			2
+1000000	32000000		10	14				10			3			0			38

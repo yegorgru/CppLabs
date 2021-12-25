@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fork.png</file>
+        <file>philosopher.png</file>
+        <file>philosopher_eat.png</file>
+        <file>philosopher_wait.jpg</file>
+        <file>table.png</file>
+        <file>philosopher_speak.jpg</file>
+        <file>voice8.wav</file>
+        <file>Cheawing.wav</file>
+        <file>voice2.wav</file>
+        <file>voice3.wav</file>
+        <file>voice4.wav</file>
+        <file>voice5.wav</file>
+        <file>voice7.wav</file>
+        <file>voice6.wav</file>
+        <file>voice1.wav</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>

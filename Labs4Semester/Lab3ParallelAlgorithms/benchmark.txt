@@ -1,0 +1,2747 @@
+
+
+RANDOM VECTOR
+
+
+Elements: 100
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 13 ms
+SlowSort. Parallel: 12 ms
+
+
+Elements: 110
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 24 ms
+SlowSort. Parallel: 22 ms
+
+
+Elements: 121
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 37 ms
+SlowSort. Parallel: 39 ms
+
+
+Elements: 133
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 65 ms
+SlowSort. Parallel: 61 ms
+
+
+Elements: 146
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 115 ms
+SlowSort. Parallel: 98 ms
+
+
+Elements: 160
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 201 ms
+SlowSort. Parallel: 164 ms
+
+
+Elements: 176
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 361 ms
+SlowSort. Parallel: 281 ms
+
+
+Elements: 193
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 668 ms
+SlowSort. Parallel: 491 ms
+
+
+Elements: 212
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 1248 ms
+SlowSort. Parallel: 837 ms
+
+
+Elements: 233
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 2216 ms
+SlowSort. Parallel: 1471 ms
+
+
+Elements: 256
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 281
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 309
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 339
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 372
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 409
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 449
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 493
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 542
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 596
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 655
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 720
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 792
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 871
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 958
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1053
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1158
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1273
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1400
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1540
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1694
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1863
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 2049
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 2253
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 2478
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 2725
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 2 ms
+MergeSort in place. Parallel: 2 ms
+
+
+Elements: 2997
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 3 ms
+MergeSort in place. Parallel: 3 ms
+
+
+Elements: 3296
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 2 ms
+MergeSort in place. Parallel: 2 ms
+
+
+Elements: 3625
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 4 ms
+MergeSort in place. Parallel: 4 ms
+
+
+Elements: 3987
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 2 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 5 ms
+MergeSort in place. Parallel: 5 ms
+
+
+Elements: 4385
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 2 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 7 ms
+MergeSort in place. Parallel: 7 ms
+
+
+Elements: 4823
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 8 ms
+MergeSort in place. Parallel: 8 ms
+
+
+Elements: 5305
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 2 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 10 ms
+MergeSort in place. Parallel: 7 ms
+
+
+Elements: 5835
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 12 ms
+MergeSort in place. Parallel: 8 ms
+
+
+Elements: 6418
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 14 ms
+MergeSort in place. Parallel: 10 ms
+
+
+Elements: 7059
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 16 ms
+MergeSort in place. Parallel: 9 ms
+
+
+Elements: 7764
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 4 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 21 ms
+MergeSort in place. Parallel: 15 ms
+
+
+Elements: 8540
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 4 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 15 ms
+MergeSort in place. Parallel: 9 ms
+
+
+Elements: 9394
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 2 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 16 ms
+MergeSort in place. Parallel: 11 ms
+
+
+Elements: 10333
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 24 ms
+MergeSort in place. Parallel: 18 ms
+
+
+Elements: 11366
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 22 ms
+MergeSort in place. Parallel: 18 ms
+
+
+Elements: 12502
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 4 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 29 ms
+MergeSort in place. Parallel: 22 ms
+
+
+Elements: 13752
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 5 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 36 ms
+MergeSort in place. Parallel: 25 ms
+
+
+Elements: 15127
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 4 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 38 ms
+MergeSort in place. Parallel: 32 ms
+
+
+Elements: 16639
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 5 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 48 ms
+MergeSort in place. Parallel: 37 ms
+
+
+Elements: 18302
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 3 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 11 ms
+MergeSort. Parallel: 4 ms
+SampleSort. Sequence: 3 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 63 ms
+MergeSort in place. Parallel: 44 ms
+
+
+Elements: 20132
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 2 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 7 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 75 ms
+MergeSort in place. Parallel: 52 ms
+
+
+Elements: 22145
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 2 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 6 ms
+MergeSort. Parallel: 3 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 95 ms
+MergeSort in place. Parallel: 65 ms
+
+
+Elements: 24359
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 2 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 7 ms
+MergeSort. Parallel: 3 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 106 ms
+MergeSort in place. Parallel: 107 ms
+
+
+Elements: 26794
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 2 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 11 ms
+MergeSort. Parallel: 3 ms
+SampleSort. Sequence: 3 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 128 ms
+MergeSort in place. Parallel: 107 ms
+
+
+Elements: 29473
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 2 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 12 ms
+MergeSort. Parallel: 3 ms
+SampleSort. Sequence: 3 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 155 ms
+MergeSort in place. Parallel: 113 ms
+
+
+Elements: 32420
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 4 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 13 ms
+MergeSort. Parallel: 4 ms
+SampleSort. Sequence: 4 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 188 ms
+MergeSort in place. Parallel: 139 ms
+
+
+Elements: 35662
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 3 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 10 ms
+MergeSort. Parallel: 3 ms
+SampleSort. Sequence: 5 ms
+SampleSort. Parallel: 2 ms
+MergeSort in place. Sequence: 220 ms
+MergeSort in place. Parallel: 175 ms
+
+
+Elements: 39228
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 4 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 12 ms
+MergeSort. Parallel: 5 ms
+SampleSort. Sequence: 4 ms
+SampleSort. Parallel: 2 ms
+MergeSort in place. Sequence: 312 ms
+MergeSort in place. Parallel: 221 ms
+
+
+Elements: 43150
+std::sort. Sequence: 4 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 4 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 14 ms
+MergeSort. Parallel: 6 ms
+SampleSort. Sequence: 6 ms
+SampleSort. Parallel: 2 ms
+MergeSort in place. Sequence: 326 ms
+MergeSort in place. Parallel: 223 ms
+
+
+Elements: 47465
+std::sort. Sequence: 4 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 6 ms
+QuickSort. Parallel: 2 ms
+MergeSort. Sequence: 31 ms
+MergeSort. Parallel: 7 ms
+SampleSort. Sequence: 5 ms
+SampleSort. Parallel: 2 ms
+MergeSort in place. Sequence: 417 ms
+MergeSort in place. Parallel: 268 ms
+
+
+Elements: 52211
+std::sort. Sequence: 4 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 5 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 15 ms
+MergeSort. Parallel: 6 ms
+SampleSort. Sequence: 11 ms
+SampleSort. Parallel: 3 ms
+MergeSort in place. Sequence: 454 ms
+MergeSort in place. Parallel: 333 ms
+
+
+Elements: 57432
+std::sort. Sequence: 5 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 5 ms
+QuickSort. Parallel: 2 ms
+MergeSort. Sequence: 24 ms
+MergeSort. Parallel: 7 ms
+SampleSort. Sequence: 18 ms
+SampleSort. Parallel: 7 ms
+MergeSort in place. Sequence: 549 ms
+MergeSort in place. Parallel: 390 ms
+
+
+Elements: 63175
+std::sort. Sequence: 5 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 7 ms
+QuickSort. Parallel: 2 ms
+MergeSort. Sequence: 30 ms
+MergeSort. Parallel: 12 ms
+SampleSort. Sequence: 21 ms
+SampleSort. Parallel: 5 ms
+MergeSort in place. Sequence: 672 ms
+MergeSort in place. Parallel: 479 ms
+
+
+Elements: 69492
+std::sort. Sequence: 8 ms
+std::sort. Parallel: 2 ms
+QuickSort. Sequence: 7 ms
+QuickSort. Parallel: 2 ms
+MergeSort. Sequence: 40 ms
+MergeSort. Parallel: 12 ms
+SampleSort. Sequence: 9 ms
+SampleSort. Parallel: 3 ms
+MergeSort in place. Sequence: 819 ms
+MergeSort in place. Parallel: 580 ms
+
+
+Elements: 76441
+std::sort. Sequence: 7 ms
+std::sort. Parallel: 2 ms
+QuickSort. Sequence: 7 ms
+QuickSort. Parallel: 2 ms
+MergeSort. Sequence: 23 ms
+MergeSort. Parallel: 8 ms
+SampleSort. Sequence: 11 ms
+SampleSort. Parallel: 4 ms
+MergeSort in place. Sequence: 998 ms
+MergeSort in place. Parallel: 760 ms
+
+
+Elements: 84085
+std::sort. Sequence: 7 ms
+std::sort. Parallel: 2 ms
+QuickSort. Sequence: 8 ms
+QuickSort. Parallel: 3 ms
+MergeSort. Sequence: 31 ms
+MergeSort. Parallel: 9 ms
+SampleSort. Sequence: 9 ms
+SampleSort. Parallel: 4 ms
+MergeSort in place. Sequence: 1198 ms
+MergeSort in place. Parallel: 867 ms
+
+
+Elements: 92493
+std::sort. Sequence: 8 ms
+std::sort. Parallel: 2 ms
+QuickSort. Sequence: 9 ms
+QuickSort. Parallel: 3 ms
+MergeSort. Sequence: 38 ms
+MergeSort. Parallel: 10 ms
+SampleSort. Sequence: 11 ms
+SampleSort. Parallel: 5 ms
+MergeSort in place. Sequence: 1433 ms
+MergeSort in place. Parallel: 1069 ms
+
+
+Elements: 101742
+std::sort. Sequence: 9 ms
+std::sort. Parallel: 3 ms
+QuickSort. Sequence: 14 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 59 ms
+MergeSort. Parallel: 11 ms
+SampleSort. Sequence: 14 ms
+SampleSort. Parallel: 5 ms
+
+
+Elements: 111916
+std::sort. Sequence: 11 ms
+std::sort. Parallel: 3 ms
+QuickSort. Sequence: 16 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 41 ms
+MergeSort. Parallel: 12 ms
+SampleSort. Sequence: 17 ms
+SampleSort. Parallel: 5 ms
+
+
+Elements: 123107
+std::sort. Sequence: 15 ms
+std::sort. Parallel: 3 ms
+QuickSort. Sequence: 18 ms
+QuickSort. Parallel: 5 ms
+MergeSort. Sequence: 58 ms
+MergeSort. Parallel: 14 ms
+SampleSort. Sequence: 19 ms
+SampleSort. Parallel: 7 ms
+
+
+Elements: 135417
+std::sort. Sequence: 37 ms
+std::sort. Parallel: 5 ms
+QuickSort. Sequence: 18 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 41 ms
+MergeSort. Parallel: 14 ms
+SampleSort. Sequence: 16 ms
+SampleSort. Parallel: 7 ms
+
+
+Elements: 148958
+std::sort. Sequence: 19 ms
+std::sort. Parallel: 5 ms
+QuickSort. Sequence: 15 ms
+QuickSort. Parallel: 5 ms
+MergeSort. Sequence: 54 ms
+MergeSort. Parallel: 17 ms
+SampleSort. Sequence: 21 ms
+SampleSort. Parallel: 9 ms
+
+
+Elements: 163853
+std::sort. Sequence: 35 ms
+std::sort. Parallel: 5 ms
+QuickSort. Sequence: 25 ms
+QuickSort. Parallel: 6 ms
+MergeSort. Sequence: 55 ms
+MergeSort. Parallel: 19 ms
+SampleSort. Sequence: 23 ms
+SampleSort. Parallel: 9 ms
+
+
+Elements: 180238
+std::sort. Sequence: 23 ms
+std::sort. Parallel: 5 ms
+QuickSort. Sequence: 24 ms
+QuickSort. Parallel: 6 ms
+MergeSort. Sequence: 60 ms
+MergeSort. Parallel: 22 ms
+SampleSort. Sequence: 28 ms
+SampleSort. Parallel: 11 ms
+
+
+Elements: 198261
+std::sort. Sequence: 24 ms
+std::sort. Parallel: 6 ms
+QuickSort. Sequence: 40 ms
+QuickSort. Parallel: 17 ms
+MergeSort. Sequence: 65 ms
+MergeSort. Parallel: 26 ms
+SampleSort. Sequence: 26 ms
+SampleSort. Parallel: 11 ms
+
+
+Elements: 218087
+std::sort. Sequence: 25 ms
+std::sort. Parallel: 6 ms
+QuickSort. Sequence: 27 ms
+QuickSort. Parallel: 7 ms
+MergeSort. Sequence: 77 ms
+MergeSort. Parallel: 25 ms
+SampleSort. Sequence: 27 ms
+SampleSort. Parallel: 12 ms
+
+
+Elements: 239895
+std::sort. Sequence: 27 ms
+std::sort. Parallel: 10 ms
+QuickSort. Sequence: 29 ms
+QuickSort. Parallel: 8 ms
+MergeSort. Sequence: 77 ms
+MergeSort. Parallel: 27 ms
+SampleSort. Sequence: 29 ms
+SampleSort. Parallel: 13 ms
+
+
+Elements: 263884
+std::sort. Sequence: 27 ms
+std::sort. Parallel: 10 ms
+QuickSort. Sequence: 46 ms
+QuickSort. Parallel: 9 ms
+MergeSort. Sequence: 94 ms
+MergeSort. Parallel: 29 ms
+SampleSort. Sequence: 35 ms
+SampleSort. Parallel: 15 ms
+
+
+Elements: 290272
+std::sort. Sequence: 30 ms
+std::sort. Parallel: 10 ms
+QuickSort. Sequence: 31 ms
+QuickSort. Parallel: 10 ms
+MergeSort. Sequence: 96 ms
+MergeSort. Parallel: 47 ms
+SampleSort. Sequence: 38 ms
+SampleSort. Parallel: 17 ms
+
+
+Elements: 319299
+std::sort. Sequence: 35 ms
+std::sort. Parallel: 11 ms
+QuickSort. Sequence: 38 ms
+QuickSort. Parallel: 11 ms
+MergeSort. Sequence: 110 ms
+MergeSort. Parallel: 67 ms
+SampleSort. Sequence: 41 ms
+SampleSort. Parallel: 18 ms
+
+
+Elements: 351228
+std::sort. Sequence: 37 ms
+std::sort. Parallel: 12 ms
+QuickSort. Sequence: 41 ms
+QuickSort. Parallel: 12 ms
+MergeSort. Sequence: 114 ms
+MergeSort. Parallel: 43 ms
+SampleSort. Sequence: 45 ms
+SampleSort. Parallel: 23 ms
+
+
+Elements: 386350
+std::sort. Sequence: 43 ms
+std::sort. Parallel: 13 ms
+QuickSort. Sequence: 41 ms
+QuickSort. Parallel: 13 ms
+MergeSort. Sequence: 201 ms
+MergeSort. Parallel: 48 ms
+SampleSort. Sequence: 54 ms
+SampleSort. Parallel: 23 ms
+
+
+Elements: 424985
+std::sort. Sequence: 48 ms
+std::sort. Parallel: 15 ms
+QuickSort. Sequence: 52 ms
+QuickSort. Parallel: 16 ms
+MergeSort. Sequence: 134 ms
+MergeSort. Parallel: 53 ms
+SampleSort. Sequence: 56 ms
+SampleSort. Parallel: 24 ms
+
+
+Elements: 467483
+std::sort. Sequence: 51 ms
+std::sort. Parallel: 19 ms
+QuickSort. Sequence: 52 ms
+QuickSort. Parallel: 17 ms
+MergeSort. Sequence: 148 ms
+MergeSort. Parallel: 57 ms
+SampleSort. Sequence: 61 ms
+SampleSort. Parallel: 27 ms
+
+
+Elements: 514231
+std::sort. Sequence: 59 ms
+std::sort. Parallel: 21 ms
+QuickSort. Sequence: 57 ms
+QuickSort. Parallel: 18 ms
+MergeSort. Sequence: 158 ms
+MergeSort. Parallel: 60 ms
+SampleSort. Sequence: 69 ms
+SampleSort. Parallel: 32 ms
+
+
+Elements: 565654
+std::sort. Sequence: 89 ms
+std::sort. Parallel: 20 ms
+QuickSort. Sequence: 66 ms
+QuickSort. Parallel: 20 ms
+MergeSort. Sequence: 201 ms
+MergeSort. Parallel: 62 ms
+SampleSort. Sequence: 76 ms
+SampleSort. Parallel: 36 ms
+
+
+Elements: 622219
+std::sort. Sequence: 70 ms
+std::sort. Parallel: 23 ms
+QuickSort. Sequence: 79 ms
+QuickSort. Parallel: 23 ms
+MergeSort. Sequence: 212 ms
+MergeSort. Parallel: 72 ms
+SampleSort. Sequence: 84 ms
+SampleSort. Parallel: 39 ms
+
+
+Elements: 684440
+std::sort. Sequence: 77 ms
+std::sort. Parallel: 25 ms
+QuickSort. Sequence: 79 ms
+QuickSort. Parallel: 24 ms
+MergeSort. Sequence: 223 ms
+MergeSort. Parallel: 79 ms
+SampleSort. Sequence: 93 ms
+SampleSort. Parallel: 39 ms
+
+
+Elements: 752884
+std::sort. Sequence: 86 ms
+std::sort. Parallel: 27 ms
+QuickSort. Sequence: 92 ms
+QuickSort. Parallel: 30 ms
+MergeSort. Sequence: 265 ms
+MergeSort. Parallel: 87 ms
+SampleSort. Sequence: 105 ms
+SampleSort. Parallel: 46 ms
+
+
+Elements: 828172
+std::sort. Sequence: 100 ms
+std::sort. Parallel: 31 ms
+QuickSort. Sequence: 93 ms
+QuickSort. Parallel: 30 ms
+MergeSort. Sequence: 270 ms
+MergeSort. Parallel: 137 ms
+SampleSort. Sequence: 113 ms
+SampleSort. Parallel: 50 ms
+
+
+Elements: 910989
+std::sort. Sequence: 129 ms
+std::sort. Parallel: 35 ms
+QuickSort. Sequence: 106 ms
+QuickSort. Parallel: 33 ms
+MergeSort. Sequence: 302 ms
+MergeSort. Parallel: 130 ms
+SampleSort. Sequence: 137 ms
+SampleSort. Parallel: 53 ms
+
+
+Elements: 1002087
+std::sort. Sequence: 132 ms
+std::sort. Parallel: 38 ms
+QuickSort. Sequence: 116 ms
+QuickSort. Parallel: 37 ms
+MergeSort. Sequence: 331 ms
+MergeSort. Parallel: 113 ms
+SampleSort. Sequence: 139 ms
+SampleSort. Parallel: 57 ms
+
+
+Elements: 1102295
+std::sort. Sequence: 140 ms
+std::sort. Parallel: 40 ms
+QuickSort. Sequence: 133 ms
+QuickSort. Parallel: 45 ms
+MergeSort. Sequence: 355 ms
+MergeSort. Parallel: 131 ms
+SampleSort. Sequence: 163 ms
+SampleSort. Parallel: 63 ms
+
+
+Elements: 1212524
+std::sort. Sequence: 152 ms
+std::sort. Parallel: 46 ms
+QuickSort. Sequence: 146 ms
+QuickSort. Parallel: 45 ms
+MergeSort. Sequence: 426 ms
+MergeSort. Parallel: 147 ms
+SampleSort. Sequence: 176 ms
+SampleSort. Parallel: 70 ms
+
+
+Elements: 1333776
+std::sort. Sequence: 165 ms
+std::sort. Parallel: 53 ms
+QuickSort. Sequence: 162 ms
+QuickSort. Parallel: 52 ms
+MergeSort. Sequence: 447 ms
+MergeSort. Parallel: 184 ms
+SampleSort. Sequence: 202 ms
+SampleSort. Parallel: 81 ms
+
+
+Elements: 1467153
+std::sort. Sequence: 176 ms
+std::sort. Parallel: 60 ms
+QuickSort. Sequence: 175 ms
+QuickSort. Parallel: 64 ms
+MergeSort. Sequence: 4032 ms
+MergeSort. Parallel: 251 ms
+SampleSort. Sequence: 219 ms
+SampleSort. Parallel: 88 ms
+
+
+Elements: 1613868
+std::sort. Sequence: 200 ms
+std::sort. Parallel: 64 ms
+QuickSort. Sequence: 195 ms
+QuickSort. Parallel: 66 ms
+MergeSort. Sequence: 528 ms
+MergeSort. Parallel: 212 ms
+SampleSort. Sequence: 238 ms
+SampleSort. Parallel: 96 ms
+
+
+Elements: 1775254
+std::sort. Sequence: 217 ms
+std::sort. Parallel: 71 ms
+QuickSort. Sequence: 219 ms
+QuickSort. Parallel: 68 ms
+MergeSort. Sequence: 600 ms
+MergeSort. Parallel: 211 ms
+SampleSort. Sequence: 269 ms
+SampleSort. Parallel: 107 ms
+
+
+Elements: 1952779
+std::sort. Sequence: 240 ms
+std::sort. Parallel: 77 ms
+QuickSort. Sequence: 244 ms
+QuickSort. Parallel: 77 ms
+MergeSort. Sequence: 645 ms
+MergeSort. Parallel: 226 ms
+SampleSort. Sequence: 300 ms
+SampleSort. Parallel: 127 ms
+
+
+Elements: 2148056
+std::sort. Sequence: 268 ms
+std::sort. Parallel: 86 ms
+QuickSort. Sequence: 276 ms
+QuickSort. Parallel: 86 ms
+MergeSort. Sequence: 727 ms
+MergeSort. Parallel: 285 ms
+SampleSort. Sequence: 337 ms
+SampleSort. Parallel: 129 ms
+
+
+Elements: 2362861
+std::sort. Sequence: 312 ms
+std::sort. Parallel: 100 ms
+QuickSort. Sequence: 291 ms
+QuickSort. Parallel: 95 ms
+MergeSort. Sequence: 818 ms
+MergeSort. Parallel: 343 ms
+SampleSort. Sequence: 368 ms
+SampleSort. Parallel: 144 ms
+
+
+Elements: 2599147
+std::sort. Sequence: 336 ms
+std::sort. Parallel: 101 ms
+QuickSort. Sequence: 320 ms
+QuickSort. Parallel: 105 ms
+MergeSort. Sequence: 869 ms
+MergeSort. Parallel: 448 ms
+SampleSort. Sequence: 422 ms
+SampleSort. Parallel: 162 ms
+
+
+Elements: 2859061
+std::sort. Sequence: 372 ms
+std::sort. Parallel: 117 ms
+QuickSort. Sequence: 355 ms
+QuickSort. Parallel: 114 ms
+MergeSort. Sequence: 993 ms
+MergeSort. Parallel: 531 ms
+SampleSort. Sequence: 457 ms
+SampleSort. Parallel: 176 ms
+
+
+Elements: 3144967
+std::sort. Sequence: 409 ms
+std::sort. Parallel: 131 ms
+QuickSort. Sequence: 408 ms
+QuickSort. Parallel: 134 ms
+MergeSort. Sequence: 1068 ms
+MergeSort. Parallel: 637 ms
+SampleSort. Sequence: 501 ms
+SampleSort. Parallel: 193 ms
+
+
+Elements: 3459463
+std::sort. Sequence: 456 ms
+std::sort. Parallel: 140 ms
+QuickSort. Sequence: 430 ms
+QuickSort. Parallel: 136 ms
+MergeSort. Sequence: 1185 ms
+MergeSort. Parallel: 627 ms
+SampleSort. Sequence: 552 ms
+SampleSort. Parallel: 215 ms
+
+
+Elements: 3805409
+std::sort. Sequence: 515 ms
+std::sort. Parallel: 158 ms
+QuickSort. Sequence: 478 ms
+QuickSort. Parallel: 156 ms
+MergeSort. Sequence: 1318 ms
+MergeSort. Parallel: 694 ms
+SampleSort. Sequence: 605 ms
+SampleSort. Parallel: 239 ms
+
+
+Elements: 4185949
+std::sort. Sequence: 546 ms
+std::sort. Parallel: 174 ms
+QuickSort. Sequence: 529 ms
+QuickSort. Parallel: 168 ms
+MergeSort. Sequence: 1407 ms
+MergeSort. Parallel: 755 ms
+SampleSort. Sequence: 692 ms
+SampleSort. Parallel: 264 ms
+
+
+Elements: 4604543
+std::sort. Sequence: 618 ms
+std::sort. Parallel: 192 ms
+QuickSort. Sequence: 593 ms
+QuickSort. Parallel: 174 ms
+MergeSort. Sequence: 1578 ms
+MergeSort. Parallel: 848 ms
+SampleSort. Sequence: 770 ms
+SampleSort. Parallel: 284 ms
+
+
+Elements: 5064997
+std::sort. Sequence: 677 ms
+std::sort. Parallel: 210 ms
+QuickSort. Sequence: 651 ms
+QuickSort. Parallel: 204 ms
+MergeSort. Sequence: 1748 ms
+MergeSort. Parallel: 911 ms
+SampleSort. Sequence: 841 ms
+SampleSort. Parallel: 320 ms
+
+
+Elements: 5571496
+std::sort. Sequence: 745 ms
+std::sort. Parallel: 244 ms
+QuickSort. Sequence: 736 ms
+QuickSort. Parallel: 234 ms
+MergeSort. Sequence: 1932 ms
+MergeSort. Parallel: 23192 ms
+SampleSort. Sequence: 943 ms
+SampleSort. Parallel: 12295 ms
+
+
+Elements: 6128645
+std::sort. Sequence: 825 ms
+std::sort. Parallel: 251 ms
+QuickSort. Sequence: 806 ms
+QuickSort. Parallel: 240 ms
+MergeSort. Sequence: 3264 ms
+MergeSort. Parallel: 849 ms
+SampleSort. Sequence: 1021 ms
+SampleSort. Parallel: 410 ms
+
+
+Elements: 6741509
+std::sort. Sequence: 913 ms
+std::sort. Parallel: 289 ms
+QuickSort. Sequence: 873 ms
+QuickSort. Parallel: 263 ms
+MergeSort. Sequence: 2321 ms
+MergeSort. Parallel: 853 ms
+SampleSort. Sequence: 1125 ms
+SampleSort. Parallel: 2384 ms
+
+
+Elements: 7415659
+std::sort. Sequence: 1028 ms
+std::sort. Parallel: 319 ms
+QuickSort. Sequence: 974 ms
+QuickSort. Parallel: 297 ms
+MergeSort. Sequence: 2625 ms
+MergeSort. Parallel: 907 ms
+SampleSort. Sequence: 1287 ms
+SampleSort. Parallel: 482 ms
+
+
+Elements: 8157224
+std::sort. Sequence: 1137 ms
+std::sort. Parallel: 341 ms
+QuickSort. Sequence: 1073 ms
+QuickSort. Parallel: 331 ms
+MergeSort. Sequence: 2872 ms
+MergeSort. Parallel: 1043 ms
+SampleSort. Sequence: 1379 ms
+SampleSort. Parallel: 545 ms
+
+
+Elements: 8972946
+std::sort. Sequence: 1233 ms
+std::sort. Parallel: 391 ms
+QuickSort. Sequence: 1189 ms
+QuickSort. Parallel: 376 ms
+MergeSort. Sequence: 3183 ms
+MergeSort. Parallel: 1339 ms
+SampleSort. Sequence: 1552 ms
+SampleSort. Parallel: 592 ms
+
+
+Elements: 9870240
+std::sort. Sequence: 1385 ms
+std::sort. Parallel: 420 ms
+QuickSort. Sequence: 1327 ms
+QuickSort. Parallel: 409 ms
+MergeSort. Sequence: 3579 ms
+MergeSort. Parallel: 1459 ms
+SampleSort. Sequence: 1697 ms
+SampleSort. Parallel: 4518 ms
+
+
+ALMOST SORTED VECTOR
+
+
+Elements: 100
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 17 ms
+SlowSort. Parallel: 15 ms
+
+
+Elements: 110
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 26 ms
+SlowSort. Parallel: 20 ms
+
+
+Elements: 121
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 55 ms
+SlowSort. Parallel: 45 ms
+
+
+Elements: 133
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 67 ms
+SlowSort. Parallel: 56 ms
+
+
+Elements: 146
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 134 ms
+SlowSort. Parallel: 77 ms
+
+
+Elements: 160
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 217 ms
+SlowSort. Parallel: 129 ms
+
+
+Elements: 176
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 382 ms
+SlowSort. Parallel: 223 ms
+
+
+Elements: 193
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 624 ms
+SlowSort. Parallel: 385 ms
+
+
+Elements: 212
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 1110 ms
+SlowSort. Parallel: 679 ms
+
+
+Elements: 233
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+SlowSort. Sequence: 2065 ms
+SlowSort. Parallel: 1226 ms
+
+
+Elements: 256
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 281
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 309
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 339
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 372
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 409
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 449
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 493
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 542
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 596
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 655
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 720
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 792
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 871
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 958
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1053
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1158
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1273
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1400
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1540
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1694
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 1863
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 2049
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 2253
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 2478
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 2725
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 2997
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 3296
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 3625
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 3987
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 0 ms
+QuickSort. Parallel: 0 ms
+MergeSort. Sequence: 0 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 4385
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 4823
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 5305
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 0 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 5835
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 2 ms
+QuickSort. Parallel: 2 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 9 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 6418
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 2 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 1 ms
+MergeSort. Parallel: 11 ms
+SampleSort. Sequence: 0 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 7059
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 1 ms
+QuickSort. Parallel: 1 ms
+MergeSort. Sequence: 2 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 7764
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 4 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 2 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 0 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 8540
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 4 ms
+QuickSort. Parallel: 2 ms
+MergeSort. Sequence: 4 ms
+MergeSort. Parallel: 3 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 9394
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 5 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 4 ms
+MergeSort. Parallel: 7 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 10333
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 5 ms
+QuickSort. Parallel: 3 ms
+MergeSort. Sequence: 4 ms
+MergeSort. Parallel: 15 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 11366
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 7 ms
+QuickSort. Parallel: 5 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 0 ms
+
+
+Elements: 12502
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 5 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 5 ms
+MergeSort. Parallel: 17 ms
+SampleSort. Sequence: 3 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 13752
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 7 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 6 ms
+MergeSort. Parallel: 17 ms
+SampleSort. Sequence: 3 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 2 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 15127
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 9 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 5 ms
+MergeSort. Parallel: 1 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 16639
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 5 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 3 ms
+MergeSort. Parallel: 11 ms
+SampleSort. Sequence: 1 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 1 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 18302
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 7 ms
+QuickSort. Parallel: 3 ms
+MergeSort. Sequence: 5 ms
+MergeSort. Parallel: 6 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 3 ms
+MergeSort in place. Parallel: 2 ms
+
+
+Elements: 20132
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 5 ms
+QuickSort. Parallel: 3 ms
+MergeSort. Sequence: 4 ms
+MergeSort. Parallel: 9 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 0 ms
+MergeSort in place. Sequence: 2 ms
+MergeSort in place. Parallel: 1 ms
+
+
+Elements: 22145
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 7 ms
+QuickSort. Parallel: 4 ms
+MergeSort. Sequence: 6 ms
+MergeSort. Parallel: 15 ms
+SampleSort. Sequence: 3 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 3 ms
+MergeSort in place. Parallel: 4 ms
+
+
+Elements: 24359
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 10 ms
+QuickSort. Parallel: 5 ms
+MergeSort. Sequence: 11 ms
+MergeSort. Parallel: 10 ms
+SampleSort. Sequence: 2 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 3 ms
+MergeSort in place. Parallel: 2 ms
+
+
+Elements: 26794
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 12 ms
+QuickSort. Parallel: 8 ms
+MergeSort. Sequence: 7 ms
+MergeSort. Parallel: 12 ms
+SampleSort. Sequence: 3 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 5 ms
+MergeSort in place. Parallel: 2 ms
+
+
+Elements: 29473
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 7 ms
+QuickSort. Parallel: 9 ms
+MergeSort. Sequence: 22 ms
+MergeSort. Parallel: 27 ms
+SampleSort. Sequence: 8 ms
+SampleSort. Parallel: 3 ms
+MergeSort in place. Sequence: 13 ms
+MergeSort in place. Parallel: 7 ms
+
+
+Elements: 32420
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 29 ms
+QuickSort. Parallel: 11 ms
+MergeSort. Sequence: 68 ms
+MergeSort. Parallel: 15 ms
+SampleSort. Sequence: 6 ms
+SampleSort. Parallel: 2 ms
+MergeSort in place. Sequence: 13 ms
+MergeSort in place. Parallel: 11 ms
+
+
+Elements: 35662
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 31 ms
+QuickSort. Parallel: 9 ms
+MergeSort. Sequence: 9 ms
+MergeSort. Parallel: 14 ms
+SampleSort. Sequence: 3 ms
+SampleSort. Parallel: 1 ms
+MergeSort in place. Sequence: 7 ms
+MergeSort in place. Parallel: 4 ms
+
+
+Elements: 39228
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 17 ms
+QuickSort. Parallel: 11 ms
+MergeSort. Sequence: 9 ms
+MergeSort. Parallel: 18 ms
+SampleSort. Sequence: 11 ms
+SampleSort. Parallel: 4 ms
+MergeSort in place. Sequence: 20 ms
+MergeSort in place. Parallel: 11 ms
+
+
+Elements: 43150
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 37 ms
+QuickSort. Parallel: 20 ms
+MergeSort. Sequence: 30 ms
+MergeSort. Parallel: 16 ms
+SampleSort. Sequence: 8 ms
+SampleSort. Parallel: 2 ms
+MergeSort in place. Sequence: 19 ms
+MergeSort in place. Parallel: 14 ms
+
+
+Elements: 47465
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 40 ms
+QuickSort. Parallel: 11 ms
+MergeSort. Sequence: 157 ms
+MergeSort. Parallel: 11 ms
+SampleSort. Sequence: 5 ms
+SampleSort. Parallel: 2 ms
+MergeSort in place. Sequence: 13 ms
+MergeSort in place. Parallel: 7 ms
+
+
+Elements: 52211
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 22 ms
+QuickSort. Parallel: 16 ms
+MergeSort. Sequence: 17 ms
+MergeSort. Parallel: 14 ms
+SampleSort. Sequence: 9 ms
+SampleSort. Parallel: 3 ms
+MergeSort in place. Sequence: 20 ms
+MergeSort in place. Parallel: 8 ms
+
+
+Elements: 57432
+std::sort. Sequence: 0 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 25 ms
+QuickSort. Parallel: 13 ms
+MergeSort. Sequence: 137 ms
+MergeSort. Parallel: 13 ms
+SampleSort. Sequence: 12 ms
+SampleSort. Parallel: 4 ms
+MergeSort in place. Sequence: 20 ms
+MergeSort in place. Parallel: 27 ms
+
+
+Elements: 63175
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 42 ms
+QuickSort. Parallel: 24 ms
+MergeSort. Sequence: 14 ms
+MergeSort. Parallel: 14 ms
+SampleSort. Sequence: 8 ms
+SampleSort. Parallel: 3 ms
+MergeSort in place. Sequence: 19 ms
+MergeSort in place. Parallel: 19 ms
+
+
+Elements: 69492
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 52 ms
+QuickSort. Parallel: 11 ms
+MergeSort. Sequence: 18 ms
+MergeSort. Parallel: 16 ms
+SampleSort. Sequence: 8 ms
+SampleSort. Parallel: 3 ms
+MergeSort in place. Sequence: 23 ms
+MergeSort in place. Parallel: 15 ms
+
+
+Elements: 76441
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 27 ms
+QuickSort. Parallel: 16 ms
+MergeSort. Sequence: 17 ms
+MergeSort. Parallel: 20 ms
+SampleSort. Sequence: 9 ms
+SampleSort. Parallel: 3 ms
+MergeSort in place. Sequence: 30 ms
+MergeSort in place. Parallel: 26 ms
+
+
+Elements: 84085
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 73 ms
+QuickSort. Parallel: 27 ms
+MergeSort. Sequence: 24 ms
+MergeSort. Parallel: 13 ms
+SampleSort. Sequence: 11 ms
+SampleSort. Parallel: 4 ms
+MergeSort in place. Sequence: 63 ms
+MergeSort in place. Parallel: 50 ms
+
+
+Elements: 92493
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 64 ms
+QuickSort. Parallel: 25 ms
+MergeSort. Sequence: 23 ms
+MergeSort. Parallel: 16 ms
+SampleSort. Sequence: 9 ms
+SampleSort. Parallel: 4 ms
+MergeSort in place. Sequence: 40 ms
+MergeSort in place. Parallel: 36 ms
+
+
+Elements: 101742
+std::sort. Sequence: 1 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 50 ms
+QuickSort. Parallel: 31 ms
+MergeSort. Sequence: 23 ms
+MergeSort. Parallel: 13 ms
+SampleSort. Sequence: 10 ms
+SampleSort. Parallel: 4 ms
+
+
+Elements: 111916
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 40 ms
+QuickSort. Parallel: 17 ms
+MergeSort. Sequence: 288 ms
+MergeSort. Parallel: 20 ms
+SampleSort. Sequence: 13 ms
+SampleSort. Parallel: 5 ms
+
+
+Elements: 123107
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 69 ms
+QuickSort. Parallel: 14 ms
+MergeSort. Sequence: 32 ms
+MergeSort. Parallel: 15 ms
+SampleSort. Sequence: 13 ms
+SampleSort. Parallel: 5 ms
+
+
+Elements: 135417
+std::sort. Sequence: 2 ms
+std::sort. Parallel: 0 ms
+QuickSort. Sequence: 69 ms
+QuickSort. Parallel: 42 ms
+MergeSort. Sequence: 313 ms
+MergeSort. Parallel: 20 ms
+SampleSort. Sequence: 19 ms
+SampleSort. Parallel: 9 ms
+
+
+Elements: 148958
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 57 ms
+QuickSort. Parallel: 34 ms
+MergeSort. Sequence: 432 ms
+MergeSort. Parallel: 32 ms
+SampleSort. Sequence: 25 ms
+SampleSort. Parallel: 7 ms
+
+
+Elements: 163853
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 48 ms
+QuickSort. Parallel: 20 ms
+MergeSort. Sequence: 103 ms
+MergeSort. Parallel: 26 ms
+SampleSort. Sequence: 22 ms
+SampleSort. Parallel: 8 ms
+
+
+Elements: 180238
+std::sort. Sequence: 11 ms
+std::sort. Parallel: 3 ms
+QuickSort. Sequence: 75 ms
+QuickSort. Parallel: 21 ms
+MergeSort. Sequence: 60 ms
+MergeSort. Parallel: 30 ms
+SampleSort. Sequence: 21 ms
+SampleSort. Parallel: 10 ms
+
+
+Elements: 198261
+std::sort. Sequence: 3 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 97 ms
+QuickSort. Parallel: 67 ms
+MergeSort. Sequence: 73 ms
+MergeSort. Parallel: 31 ms
+SampleSort. Sequence: 29 ms
+SampleSort. Parallel: 10 ms
+
+
+Elements: 218087
+std::sort. Sequence: 4 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 113 ms
+QuickSort. Parallel: 79 ms
+MergeSort. Sequence: 558 ms
+MergeSort. Parallel: 46 ms
+SampleSort. Sequence: 27 ms
+SampleSort. Parallel: 11 ms
+
+
+Elements: 239895
+std::sort. Sequence: 7 ms
+std::sort. Parallel: 2 ms
+QuickSort. Sequence: 87 ms
+QuickSort. Parallel: 42 ms
+MergeSort. Sequence: 59 ms
+MergeSort. Parallel: 32 ms
+SampleSort. Sequence: 35 ms
+SampleSort. Parallel: 13 ms
+
+
+Elements: 263884
+std::sort. Sequence: 5 ms
+std::sort. Parallel: 1 ms
+QuickSort. Sequence: 106 ms
+QuickSort. Parallel: 59 ms
+MergeSort. Sequence: 61 ms
+MergeSort. Parallel: 35 ms
+SampleSort. Sequence: 28 ms
+SampleSort. Parallel: 14 ms
+
+
+Elements: 290272
+std::sort. Sequence: 6 ms
+std::sort. Parallel: 2 ms
+QuickSort. Sequence: 183 ms
+QuickSort. Parallel: 96 ms
+MergeSort. Sequence: 790 ms
+MergeSort. Parallel: 42 ms
+SampleSort. Sequence: 31 ms
+SampleSort. Parallel: 14 ms
+
+
+Elements: 319299
+std::sort. Sequence: 8 ms
+std::sort. Parallel: 2 ms
+QuickSort. Sequence: 184 ms
+QuickSort. Parallel: 107 ms
+MergeSort. Sequence: 76 ms
+MergeSort. Parallel: 53 ms
+SampleSort. Sequence: 35 ms
+SampleSort. Parallel: 16 ms
+
+
+Elements: 351228
+std::sort. Sequence: 7 ms
+std::sort. Parallel: 2 ms
+QuickSort. Sequence: 161 ms
+QuickSort. Parallel: 82 ms
+MergeSort. Sequence: 236 ms
+MergeSort. Parallel: 50 ms
+SampleSort. Sequence: 98 ms
+SampleSort. Parallel: 18 ms
+
+
+Elements: 386350
+std::sort. Sequence: 8 ms
+std::sort. Parallel: 3 ms
+QuickSort. Sequence: 223 ms
+QuickSort. Parallel: 142 ms
+MergeSort. Sequence: 92 ms
+MergeSort. Parallel: 50 ms
+SampleSort. Sequence: 45 ms
+SampleSort. Parallel: 21 ms
+
+
+Elements: 424985
+std::sort. Sequence: 11 ms
+std::sort. Parallel: 4 ms
+QuickSort. Sequence: 347 ms
+QuickSort. Parallel: 270 ms
+MergeSort. Sequence: 101 ms
+MergeSort. Parallel: 49 ms
+SampleSort. Sequence: 50 ms
+SampleSort. Parallel: 23 ms
+
+
+Elements: 467483
+std::sort. Sequence: 11 ms
+std::sort. Parallel: 4 ms
+QuickSort. Sequence: 234 ms
+QuickSort. Parallel: 140 ms
+MergeSort. Sequence: 1146 ms
+MergeSort. Parallel: 62 ms
+SampleSort. Sequence: 62 ms
+SampleSort. Parallel: 27 ms
+
+
+Elements: 514231
+std::sort. Sequence: 10 ms
+std::sort. Parallel: 4 ms
+QuickSort. Sequence: 195 ms
+QuickSort. Parallel: 81 ms
+MergeSort. Sequence: 137 ms
+MergeSort. Parallel: 60 ms
+SampleSort. Sequence: 63 ms
+SampleSort. Parallel: 30 ms
+
+
+Elements: 565654
+std::sort. Sequence: 12 ms
+std::sort. Parallel: 4 ms
+QuickSort. Sequence: 431 ms
+QuickSort. Parallel: 317 ms
+MergeSort. Sequence: 137 ms
+MergeSort. Parallel: 75 ms
+SampleSort. Sequence: 72 ms
+SampleSort. Parallel: 32 ms
+
+
+Elements: 622219
+std::sort. Sequence: 14 ms
+std::sort. Parallel: 5 ms
+QuickSort. Sequence: 227 ms
+QuickSort. Parallel: 92 ms
+MergeSort. Sequence: 153 ms
+MergeSort. Parallel: 89 ms
+SampleSort. Sequence: 80 ms
+SampleSort. Parallel: 37 ms
+
+
+Elements: 684440
+std::sort. Sequence: 15 ms
+std::sort. Parallel: 6 ms
+QuickSort. Sequence: 412 ms
+QuickSort. Parallel: 251 ms
+MergeSort. Sequence: 183 ms
+MergeSort. Parallel: 90 ms
+SampleSort. Sequence: 95 ms
+SampleSort. Parallel: 41 ms
+
+
+Elements: 752884
+std::sort. Sequence: 17 ms
+std::sort. Parallel: 6 ms
+QuickSort. Sequence: 426 ms
+QuickSort. Parallel: 302 ms
+MergeSort. Sequence: 200 ms
+MergeSort. Parallel: 100 ms
+SampleSort. Sequence: 106 ms
+SampleSort. Parallel: 43 ms
+
+
+Elements: 828172
+std::sort. Sequence: 19 ms
+std::sort. Parallel: 7 ms
+QuickSort. Sequence: 438 ms
+QuickSort. Parallel: 219 ms
+MergeSort. Sequence: 208 ms
+MergeSort. Parallel: 95 ms
+SampleSort. Sequence: 112 ms
+SampleSort. Parallel: 47 ms
+
+
+Elements: 910989
+std::sort. Sequence: 20 ms
+std::sort. Parallel: 8 ms
+QuickSort. Sequence: 582 ms
+QuickSort. Parallel: 398 ms
+MergeSort. Sequence: 232 ms
+MergeSort. Parallel: 102 ms
+SampleSort. Sequence: 126 ms
+SampleSort. Parallel: 53 ms
